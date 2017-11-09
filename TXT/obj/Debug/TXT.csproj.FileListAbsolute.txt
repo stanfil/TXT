@@ -1,0 +1,12 @@
+C:\Users\Rookie\source\repos\TXT\TXT\bin\Debug\TXT.exe.config
+C:\Users\Rookie\source\repos\TXT\TXT\bin\Debug\TXT.exe
+C:\Users\Rookie\source\repos\TXT\TXT\bin\Debug\TXT.pdb
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.csprojResolveAssemblyReference.cache
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.Form1.resources
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.Properties.Resources.resources
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.csproj.GenerateResource.Cache
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.csproj.CoreCompileInputs.cache
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.exe
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.pdb
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.Form2.resources
+C:\Users\Rookie\source\repos\TXT\TXT\obj\Debug\TXT.Form3.resources
